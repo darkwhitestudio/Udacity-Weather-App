@@ -1,10 +1,16 @@
 # Weather-Journal App Project
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+![Project sneak peek!](/images/banner.jpg 'Project screenshot')
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+### By Essam Maccar
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+## Project Summary
+
+I have enjoyed writing every line of code, stretching myself to the max and I did my best, the project was challenging and it took me a lot of searching and reading to get satisfied with the end result
+
+## Credits
+
+- First to all the community of the Nanodegree and my tutors
+- Stackoverflow https://stackoverflow.com/
+- Mosh Hamedani tutorials on youtube https://www.youtube.com/c/programmingwithmosh
+- Web Dev Simplified youtube channel and tutorials https://www.youtube.com/c/WebDevSimplified
