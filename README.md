@@ -1,6 +1,6 @@
 # Weather-Journal App Project
 
-![Project sneak peek!](/images/banner.jpg 'Project screenshot')
+![Project sneak peek!](website/images/banner.jpg 'Project screenshot')
 
 ### By Essam Maccar
 
